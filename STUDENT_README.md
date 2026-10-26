@@ -88,7 +88,7 @@ The local test command passed **39 tests with 100% line coverage**: 85 statement
 
 GitHub Actions runs the same coverage-enforcing test command on pushes and pull requests.
 
-**Successful GitHub Actions run:** Replace this line with the URL of the successful run after pushing the completed project.
+https://github.com/jmb26243/is218-calculator-patterns/actions/runs/40404872563 - URL for successful workflow 
 
 ## Coverage exclusions
 
